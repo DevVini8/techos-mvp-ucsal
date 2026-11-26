@@ -1,0 +1,5 @@
+{
+  "name": "TechOS — Gestão de Ordens de Serviço",
+  "description": "MVP operacional para gestão centralizada de ordens de serviço em assistências técnicas de computadores e notebooks (Processos P01 a P05, Regras RN01 a RN12 e Requisitos REQ01 a REQ08), com área de acompanhamento e decisão do cliente e assistente técnico Gemini.",
+  "requestFramePermissions": []
+}
